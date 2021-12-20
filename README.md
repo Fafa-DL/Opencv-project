@@ -1,7 +1,7 @@
 Awesome Opencv Project
 ===========================
 
-[![BILIBILI](https://github.com/Fafa-DL/Opencv-project/blob/main/27%20AI%20Virtual%20Painter/Mine.png)](https://space.bilibili.com/46880349)
+[![BILIBILI](https://github.com/Fafa-DL/Opencv-project/blob/main/26%20AI%20Virtual%20Painter/Mine.png)](https://space.bilibili.com/46880349)
 
 ****
 
