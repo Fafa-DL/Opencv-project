@@ -52,3 +52,5 @@ Awesome Opencv Project
 |28|Velcro Dart Board|[视频链接](https://www.bilibili.com/video/BV17r4y1y7em/)
 |29|Virtual Calculator|[视频链接](https://www.bilibili.com/video/BV1rL4y1H7Vh/)
 |30|Hand Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1Di4y1d7M5/)
+|31|Computer Vision Arduino|[视频链接](https://www.bilibili.com/video/BV1qL411j74K/)
+--------------------
