@@ -54,4 +54,5 @@ Awesome Opencv Project
 |30|Hand Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1Di4y1d7M5/)| |
 |31|Computer Vision Arduino|[视频链接](https://www.bilibili.com/video/BV1qL411j74K/)| |
 |32|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
+|33|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
 --------------------
