@@ -65,4 +65,5 @@ Awesome Opencv Project
 [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
 
 [Sergio Canu](https://pysource.com/)
+
 --------------------
