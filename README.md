@@ -56,6 +56,7 @@ Awesome Opencv Project
 |32|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
 |33|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
 |34|Number Plate Recognition|[视频链接](https://www.bilibili.com/video/BV1xS4y1M713/)|Nicholas Renotte| |
+|35|Speed Detection|[视频链接](https://www.bilibili.com/video/BV1YD4y1c7qc/)|Sergio Canu|[相关阅读](https://pysource.com/2021/10/26/speed-detection-from-cctv-with-opencv-and-deep-learning/)|
 --------------------
 
 ## 参考
