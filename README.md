@@ -55,4 +55,14 @@ Awesome Opencv Project
 |31|Computer Vision Arduino|[视频链接](https://www.bilibili.com/video/BV1qL411j74K/)|CVzone| |
 |32|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
 |33|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
+|34|Number Plate Recognition|[视频链接](https://www.bilibili.com/video/BV1xS4y1M713/)|Nicholas Renotte| |
+--------------------
+
+## 参考
+
+[CVzone](https://computervision.zone/)
+
+[Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
+
+[Sergio Canu](https://pysource.com/)
 --------------------
