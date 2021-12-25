@@ -59,6 +59,7 @@ Awesome Opencv Project
 |35|Speed Detection|[视频链接](https://www.bilibili.com/video/BV1YD4y1c7qc/)|Sergio Canu|[相关阅读](https://pysource.com/2021/10/26/speed-detection-from-cctv-with-opencv-and-deep-learning/)|
 |36|Basketball Shot Predictor|[视频链接](https://www.bilibili.com/video/BV1zR4y1W7Jf/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/Files.zip?media=1632743877)|
 |37|AI Virtual Keyboard|[视频链接](https://www.bilibili.com/video/BV13R4y1s7nh/)|CVZone| |
+|38|Face Detection|[视频链接](https://www.bilibili.com/video/BV1mL41157Cn/)|Clever Programmer| |
 --------------------
 
 ## 参考
@@ -68,5 +69,7 @@ Awesome Opencv Project
 [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
 
 [Sergio Canu](https://pysource.com/)
+
+[Clever Programmer](https://www.youtube.com/c/CleverProgrammer/featured)
 
 --------------------
