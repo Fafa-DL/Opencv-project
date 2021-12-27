@@ -60,6 +60,7 @@ Awesome Opencv Project
 |36|Basketball Shot Predictor|[视频链接](https://www.bilibili.com/video/BV1zR4y1W7Jf/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/Files.zip?media=1632743877)|
 |37|AI Virtual Keyboard|[视频链接](https://www.bilibili.com/video/BV13R4y1s7nh/)|CVZone| |
 |38|Face Detection|[视频链接](https://www.bilibili.com/video/BV1mL41157Cn/)|Clever Programmer| |
+|39|Parking Space Counter|[视频链接](https://www.bilibili.com/video/BV19T4y1f7Rx/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/CarParkProject.zip?media=1632743877)|
 --------------------
 
 ## 参考
