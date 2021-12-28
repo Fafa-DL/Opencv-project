@@ -61,6 +61,7 @@ Awesome Opencv Project
 |37|AI Virtual Keyboard|[视频链接](https://www.bilibili.com/video/BV13R4y1s7nh/)|CVZone| |
 |38|Face Detection|[视频链接](https://www.bilibili.com/video/BV1mL41157Cn/)|Clever Programmer| |
 |39|Parking Space Counter|[视频链接](https://www.bilibili.com/video/BV19T4y1f7Rx/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/CarParkProject.zip?media=1632743877)|
+|40|Virtual Zoom Gesture|[视频链接](https://www.bilibili.com/video/BV1y44y177ZB/)|CVZone| |
 --------------------
 
 ## 参考
