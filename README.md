@@ -63,6 +63,7 @@ Awesome Opencv Project
 |39|Parking Space Counter|[视频链接](https://www.bilibili.com/video/BV19T4y1f7Rx/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/CarParkProject.zip?media=1632743877)|
 |40|Virtual Zoom Gesture|[视频链接](https://www.bilibili.com/video/BV1y44y177ZB/)|CVZone| |
 |41|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|CVZone| |
+|42|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
 --------------------
 
 ## 参考
@@ -75,4 +76,5 @@ Awesome Opencv Project
 
 [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/featured)
 
+[GrandmaCan](https://www.youtube.com/channel/UCrZOiJyMbXpZ8T5snCIJaLA)
 --------------------
