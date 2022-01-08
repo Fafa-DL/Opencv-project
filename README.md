@@ -64,6 +64,7 @@ Awesome Opencv Project
 |40|Virtual Zoom Gesture|[视频链接](https://www.bilibili.com/video/BV1y44y177ZB/)|CVZone| |
 |41|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|CVZone| |
 |42|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
+|43|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV1hL4y1b7F5/)|CVZone| |
 --------------------
 
 ## 参考
@@ -77,4 +78,5 @@ Awesome Opencv Project
 [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/featured)
 
 [GrandmaCan](https://www.youtube.com/channel/UCrZOiJyMbXpZ8T5snCIJaLA)
+
 --------------------
