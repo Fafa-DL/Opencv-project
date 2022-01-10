@@ -65,6 +65,7 @@ Awesome Opencv Project
 |41|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|CVZone| |
 |42|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
 |43|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV1hL4y1b7F5/)|CVZone| |
+|44|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1er4y1v7Vw/)|CVZone| |
 --------------------
 
 ## 参考
