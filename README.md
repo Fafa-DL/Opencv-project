@@ -66,6 +66,7 @@ Awesome Opencv Project
 |42|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
 |43|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV1hL4y1b7F5/)|CVZone| |
 |44|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1er4y1v7Vw/)|CVZone| |
+|45|Build Object Detection Software|[视频链接](https://www.bilibili.com/video/BV1Cu41127sT/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2022/01/object_detection_crash_course.zip)|
 --------------------
 
 ## 参考
