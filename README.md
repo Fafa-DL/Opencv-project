@@ -49,23 +49,23 @@ Awesome Opencv Project
 |25|AI Personal Trainer|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=8)|CVZone| |
 |26|AI Virtual Painter|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=9)|CVZone| |
 |27|AI Virtual Mouse|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=10)|CVZone| |
-|28|Velcro Dart Board|[视频链接](https://www.bilibili.com/video/BV17r4y1y7em/)|CVZone| |
-|29|Virtual Calculator|[视频链接](https://www.bilibili.com/video/BV1rL4y1H7Vh/)|CVZone| |
-|30|Hand Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1Di4y1d7M5/)|CVZone| |
+|28|Velcro Dart Board|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=11)|CVZone| |
+|29|Virtual Calculator|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=12)|CVZone| |
+|30|Hand Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=13)|CVZone| |
 |31|Computer Vision Arduino|[视频链接](https://www.bilibili.com/video/BV1qL411j74K/)|CVZone| |
 |32|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
 |33|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
 |34|Number Plate Recognition|[视频链接](https://www.bilibili.com/video/BV1xS4y1M713/)|Nicholas Renotte| |
 |35|Speed Detection|[视频链接](https://www.bilibili.com/video/BV1YD4y1c7qc/)|Sergio Canu|[相关阅读](https://pysource.com/2021/10/26/speed-detection-from-cctv-with-opencv-and-deep-learning/)|
-|36|Basketball Shot Predictor|[视频链接](https://www.bilibili.com/video/BV1zR4y1W7Jf/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/Files.zip?media=1632743877)|
-|37|AI Virtual Keyboard|[视频链接](https://www.bilibili.com/video/BV13R4y1s7nh/)|CVZone| |
+|36|Basketball Shot Predictor|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=14)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/Files.zip?media=1632743877)|
+|37|AI Virtual Keyboard|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=15)|CVZone| |
 |38|Face Detection|[视频链接](https://www.bilibili.com/video/BV1mL41157Cn/)|Clever Programmer| |
-|39|Parking Space Counter|[视频链接](https://www.bilibili.com/video/BV19T4y1f7Rx/)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/CarParkProject.zip?media=1632743877)|
-|40|Virtual Zoom Gesture|[视频链接](https://www.bilibili.com/video/BV1y44y177ZB/)|CVZone| |
-|41|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|CVZone| |
+|39|Parking Space Counter|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=16)|CVZone|[资料下载](https://usercontent.one/wp/www.computervision.zone/wp-content/uploads/2021/12/CarParkProject.zip?media=1632743877)|
+|40|Virtual Zoom Gesture|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=17)|CVZone| |
+|41|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=18)|CVZone| |
 |42|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
-|43|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV1hL4y1b7F5/)|CVZone| |
-|44|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1er4y1v7Vw/)|CVZone| |
+|43|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=19)|CVZone| |
+|44|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV1qh411Y7ty?p=20)|CVZone| |
 |45|Build Object Detection Software|[视频链接](https://www.bilibili.com/video/BV1Cu41127sT/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2022/01/object_detection_crash_course.zip)|
 --------------------
 
