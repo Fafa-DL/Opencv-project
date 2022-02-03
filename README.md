@@ -70,9 +70,8 @@ Awesome Opencv Project
 |02|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
 |03|Number Plate Recognition|[视频链接](https://www.bilibili.com/video/BV1xS4y1M713/)|Nicholas Renotte| |
 |04|Speed Detection|[视频链接](https://www.bilibili.com/video/BV1YD4y1c7qc/)|Sergio Canu|[相关阅读](https://pysource.com/2021/10/26/speed-detection-from-cctv-with-opencv-and-deep-learning/)|
-|05|Face Detection|[视频链接](https://www.bilibili.com/video/BV1mL41157Cn/)|Clever Programmer| |
-|06|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
-|07|Build Object Detection Software|[视频链接](https://www.bilibili.com/video/BV1Cu41127sT/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2022/01/object_detection_crash_course.zip)|
+|05|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
+|06|Build Object Detection Software|[视频链接](https://www.bilibili.com/video/BV1Cu41127sT/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2022/01/object_detection_crash_course.zip)|
 --------------------
 
 ## 参考
@@ -82,8 +81,6 @@ Awesome Opencv Project
 [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
 
 [Sergio Canu](https://pysource.com/)
-
-[Clever Programmer](https://www.youtube.com/c/CleverProgrammer/featured)
 
 [GrandmaCan](https://www.youtube.com/channel/UCrZOiJyMbXpZ8T5snCIJaLA)
 
