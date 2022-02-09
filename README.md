@@ -60,6 +60,7 @@ Awesome Opencv Project
 |36|Virtual Drag and Drop|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=44)|CVZone| |
 |37|Eye Blink Counter|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=45)|CVZone| |
 |38|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=46)|CVZone| |
+|39|DeepFake|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=47)|CVZone|[资料下载](https://github.com/iperov/DeepFaceLab)|
 --------------------
 
 ## 其他
