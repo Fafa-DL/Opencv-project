@@ -70,7 +70,6 @@ Awesome Opencv Project
 |01|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
 |02|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
 |03|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
-|04|Build Object Detection Software|[视频链接](https://www.bilibili.com/video/BV1Cu41127sT/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2022/01/object_detection_crash_course.zip)|
 --------------------
 
 ## 参考
