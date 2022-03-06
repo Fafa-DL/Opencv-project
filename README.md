@@ -62,6 +62,7 @@ Awesome Opencv Project
 |38|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=46)|CVZone| |
 |39|DeepFake|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=47)|CVZone|[资料下载](https://github.com/iperov/DeepFaceLab)|
 |40|3D Motion Capture|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=48)|CVZone| |
+|41|Snake Game|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=49)|CVZone| |
 --------------------
 
 ## 其他
@@ -70,7 +71,6 @@ Awesome Opencv Project
 |---|---|---|---|---|
 |01|Object Tracking From Scratch|[视频链接](https://www.bilibili.com/video/BV1kL4y1J74g)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Object-tracking-from-scratch-source_code.zip)|
 |02|Kalman Filter Prediction|[视频链接](https://www.bilibili.com/video/BV1dQ4y1m7ZC/)|Sergio Canu|[资料下载](https://pysource.com/wp-content/uploads/2021/10/Pysource-Kalman-filter.zip)|
-|03|Mediapipe Hand Tracking|[视频链接](https://www.bilibili.com/video/BV1yb4y1Y78o/)|GrandmaCan| |
 --------------------
 
 ## 参考
