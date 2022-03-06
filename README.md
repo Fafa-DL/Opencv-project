@@ -62,7 +62,8 @@ Awesome Opencv Project
 |38|Face Distance Measurement|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=46)|CVZone| |
 |39|DeepFake|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=47)|CVZone|[资料下载](https://github.com/iperov/DeepFaceLab)|
 |40|3D Motion Capture|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=48)|CVZone| |
-|41|Snake Game|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=49)|CVZone| |
+|41|Color Finder and Review|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=49)|CVZone| |
+|42|Snake Game|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=50)|CVZone| |
 --------------------
 
 ## 其他
