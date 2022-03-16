@@ -64,6 +64,8 @@ Awesome Opencv Project
 |40|3D Motion Capture|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=48)|CVZone| |
 |41|Color Finder and Review|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=49)|CVZone| |
 |42|Snake Game|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=50)|CVZone| |
+|43|3D Ball Tracking|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=51)|CVZone| |
+|44|Hand Gestrue  Controlled|[视频链接](https://www.bilibili.com/video/BV18B4y1c7r4?p=52)|CVZone| |
 --------------------
 
 ## 其他
