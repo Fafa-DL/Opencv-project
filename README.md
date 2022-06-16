@@ -13,7 +13,6 @@ Awesome Opencv Project
 
 </div>
 
-
 ## 我维护的其他项目
 - [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
@@ -21,7 +20,8 @@ Awesome Opencv Project
 - [**开箱即用，涵盖主流模型的图像分类|主干网络学习/对比/魔改项目**](https://github.com/Fafa-DL/Awesome-Backbones)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
-	
+--------------------
+
 |B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
 |---|---|
 |人工智能技术探讨群1|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|
