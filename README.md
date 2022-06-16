@@ -1,21 +1,32 @@
 Awesome Opencv Project
 ===========================
 
-[![BILIBILI](https://github.com/Fafa-DL/Opencv-project/blob/main/26%20AI%20Virtual%20Painter/Mine.png)](https://space.bilibili.com/46880349)
+<div align="center">
 
-****
+[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 
-```
-群内有许多来自不同领域的人才，未来大咖云集的地方哈哈哈。点赞关注一起进步啦。
-```
+![](https://img.shields.io/badge/Bilibili-%E5%95%A5%E9%83%BD%E4%BC%9A%E4%B8%80%E7%82%B9%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F-green)
+![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%95%A5%E9%83%BD%E4%BC%9A%E4%B8%80%E7%82%B9%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F-brightgreen)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Opencv-project)](https://github.com/Fafa-DL/Opencv-project)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Opencv-project)](https://github.com/Fafa-DL/Opencv-project)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Opencv-project&right_color=yellow)
+
+</div>
+
+
+## 我维护的其他项目
+- [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
+- [**开箱即用，涵盖主流模型的图像分类|主干网络学习/对比/魔改项目**](https://github.com/Fafa-DL/Awesome-Backbones)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 	
 |B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
 |---|---|
 |人工智能技术探讨群1|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|
 |人工智能技术探讨群2|[571218304](https://jq.qq.com/?_wv=1027&k=ZCDCT3xV)|
 |人工智能技术探讨群3|[584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
-
-****
 
 
 ## CVZone
