@@ -1,5 +1,5 @@
 Awesome Opencv Project
-===========================
+==========================
 
 <div align="center">
 
